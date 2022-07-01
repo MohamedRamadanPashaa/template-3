@@ -1815,6 +1815,7 @@ p::first-letter {
 
 .footer .box .links li a {
   color: #b9b9b9;
+  transition: var(--main-transition);
 }
 
 .footer .box .links li a::before {
