@@ -1786,6 +1786,10 @@ p::first-letter {
   background-color: #1da1f2;
 }
 
+.footer .box .social li a:hover i {
+  color: white;
+}
+
 .footer .box .text {
   line-height: var(--line-height);
   color: #b9b9b9;
